@@ -4,7 +4,7 @@
 ### Hi there 👋 I'm Sai Sravan Medicherla
 👨‍🎓 Studying Information Technology at Manipal Institute of Technology.
 🧑🏻‍💻 Full Stack Web Developer with experinece in ML and Deep Learning(Computer Vision)
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://in.pinterest.com/pin/92746073564087428/)
 
 ![Sai Sravan's github stats](https://github-readme-stats.vercel.app/api?username=PSY27&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 
