@@ -2,6 +2,8 @@
 
 
 ### Hi there 👋 I'm Sai Sravan Medicherla
+👨‍🎓 Studying Information Technology at Manipal Institute of Technology.
+🧑🏻‍💻 Full Stack Web Developer with experinece in ML and Deep Learning(Computer Vision)
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 ![Sai Sravan's github stats](https://github-readme-stats.vercel.app/api?username=PSY27&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
@@ -9,19 +11,25 @@
 
 
 
-I am a Software Engineering Student who is pursuing B.Tech in Information Technology👨‍💻. I am a Full Stack Web Developer with experinece in ML and Deep Learning(Computer Vision)
 
 
+**Conatact Info**
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisraone2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-sravan-medicherla-6a8a74189/)
 
-
-    Enthusiast.
  
-👨‍🎓 Studying Information Technology at Manipal Institute of Technology.
 
 
-**My Interests:**  *anything related to MERN stack :)*
+**My Interests:**  *anything related to software dev*
+## **Tech Toolbox 🧰**<br>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
+<a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
 
 ## Stats:
 
