@@ -4,7 +4,7 @@
 ### Hi there 👋 I'm Sai Sravan Medicherla
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-![Sai Sravan's github stats](https://github-readme-stats.vercel.app/api?username=amanpriyanshu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
+![Sai Sravan's github stats](https://github-readme-stats.vercel.app/api?username=PSY27&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 
 
 
