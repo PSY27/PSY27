@@ -4,7 +4,7 @@
 ### Hi there 👋 I'm Sai Sravan Medicherla
 👨‍🎓 Studying Information Technology at Manipal Institute of Technology.
 🧑🏻‍💻 Full Stack Web Developer with experinece in ML and Deep Learning(Computer Vision)
-![](https://in.pinterest.com/pin/92746073564087428/)
+![](https://i.redd.it/i03fnmea06331.jpg)
 
 ![Sai Sravan's github stats](https://github-readme-stats.vercel.app/api?username=PSY27&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 
@@ -13,7 +13,7 @@
 
 
 
-**Conatact Info**
+**Conatact Info**<br>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisraone2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-sravan-medicherla-6a8a74189/)
 
