@@ -73,5 +73,6 @@
   <a href="https://github.com/PSY27/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PSY27&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br>
 <br>
-
+[![@psy27's Holopin board](https://holopin.me/psy27)](https://holopin.io/@psy27)
 [![Visits Badge](https://badges.pufler.dev/visits/PSY27/PSY27)](https://PSY27.github.io/)
+
